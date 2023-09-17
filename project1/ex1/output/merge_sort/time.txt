@@ -1,0 +1,9 @@
+index: 3 => time: 0.0006ms
+index: 6 => time: 0.0008ms
+index: 9 => time: 0.0712ms
+index: 12 => time: 0.7548ms
+index: 15 => time: 6.8594ms
+index: 18 => time: 60.6976ms
+index: 19 => time: 127.8112ms
+index: 20 => time: 264.2242ms
+index: 21 => time: 529.2682ms
